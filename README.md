@@ -1,36 +1,27 @@
-# Pdf Splitter
+# PDF Splitter
 
-Python utility for splitting PDF documents.
+A Python utility for splitting PDF documents.
 
-## Overview
+## Purpose
 
-This is a Automation utility prototype repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+Large PDFs often need to be separated into smaller documents for upload, review, or filing. This repository explores a focused Python utility for that workflow.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- PDF page splitting
+- Document automation
+- Small Python app structure
 
-## Tech Stack
+## Stack
 
-- Primary language: Python
-- Topics: automation, pdf, python
-
-## Repository Structure
-
-- Top-level folders: No top-level folders detected.
-- Top-level files: app.py, requirements.txt
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+- Python
+- PDF processing
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Add usage examples
+- Document input/output behavior
+- Add sample/demo PDFs only
 
 ## Author
 
